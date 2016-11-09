@@ -1,5 +1,7 @@
 # Simple Page Applications / AJAX
 
+I made a one page application with a search box that displays students information from an API. (API info is below) The info for each student includes a picture, an excerpt and a biography. 
+
 ## Assignment Specification
 
 In your second assignment, you will be expected to perform interactions with a server that provides you with a list of `Students` and their information. You will build a [**single page application**](https://en.wikipedia.org/wiki/Single-page_application) that queries this information from the server and displays it on the browser window through a basic interface. The focus is not on styling the interface, but a better look is always encouraged.
